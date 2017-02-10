@@ -1,7 +1,5 @@
 ---
 title: BOSS系统架构说明
-tags: 新建,模板,小书匠
-grammar_cjkRuby: true
 ---
 
 # boss系统模块
